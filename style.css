@@ -375,4 +375,17 @@ footer {
     .footer-content {
         flex-direction: column;
     }
+    .hide-phone{
+        display: none;
+    }
+    .instagram-btn{
+        font-size: 14px;
+        padding: 10px 18px;
+    }
+    .fade-in{
+        font-size: 18px !important;
+    }
+    .delay-1{
+        font-size: 11px !important;
+    }
 }
